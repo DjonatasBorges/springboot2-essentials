@@ -8,7 +8,7 @@ commits a cada aula nova assistida.
 
 Caso queira clonar e executar o projeto seguirão alguns passos abaixo.
 
-Sugiro a instalação do SDKMAN para gerenciar versões paralelas de vários kits de desenvolvimento de software.
+Sugiro a instalação do SDKMAN para gerenciar versões paralelas de vários kits de desenvolvimento de software Java.
 Para mais informações e uso dele, clique no link que redirecionará para o site [SDKMAN](https://sdkman.io/).
 
 
